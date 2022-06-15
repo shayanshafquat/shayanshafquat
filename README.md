@@ -9,4 +9,4 @@ My work is best accessed at [https://shayan823.github.io](https://shayan823.gith
 - 💬 Ask me about my football, trips and my work.
 - 📫 How to reach me: DM [me on Twitter](https://twitter.com/shayan1618) or email me.
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here
+- ⚡ Fun fact: You can get one such summary too -- just create a GitHub repo with the name exactly matching your username.

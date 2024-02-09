@@ -2,11 +2,9 @@
 
 My work is best accessed at [https://shayan823.github.io](https://shayan823.github.io)
 
-- 🔭 I’m currently working on RL + cortical network models.
-- 🌱 I’m currently learning Computational Cognitive Neuroscience.
-- 👯 I’m looking to collaborate on freelance projects in Generative AI. Let's get in touch if you are looking for one.
-- 🤔 I’m looking for help with research-based roles in the field of RL / Computational Neuroscience
-- 💬 Ask me about my football, trips and my work.
+- 🔭 I’m currently using RL to make computational models of decision-making.
+- 👯 I’m looking to collaborate in Generative AI (LLM, Multimodal LLM). Let's get in touch if you are looking for one.
+- 🤔 I’m actively looking out for research-based roles in the field of decision-making (neuroscience + AI)
+- 💬 Ask me about my work, travel trips and football.
 - 📫 How to reach me: DM me over [Twitter](https://twitter.com/shayan1618) / [Instagram](https://www.instagram.com/shayanshafquat/) or email me.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: You can get one such summary, too -- just create a GitHub repo with the name exactly matching your username.

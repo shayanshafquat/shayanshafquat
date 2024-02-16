@@ -1,6 +1,6 @@
 ### ✨ Hi there 👋
 
-My work is best accessed at [https://shayanshafquat.github.io](https://shayan823.github.io)
+My work is best accessed at [this website](https://shayanshafquat.github.io)
 
 - 🔭 I’m currently using RL to make computational models of decision-making.
 - 👯 I’m looking to collaborate in Generative AI (LLM, Multimodal LLM). Let's get in touch if you are looking for one.
